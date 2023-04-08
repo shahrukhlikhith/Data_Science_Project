@@ -1,4 +1,4 @@
-# DS_Assignment
+# Data Science Project
 ## Part 1: Predict the price of a house
 <b>Problem statement:</b>
 The goal is to understand the relationship between house features and how these
